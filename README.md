@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonioKincaid
 - 👀 I’m interested in ... app development, machine learning, and embedded systems
-- 🌱 I’m currently learning ... rounding out my programming languages and preparing for tech interviews (I just finished my masters degree in computer engineering)
+- 🌱 I’m currently learning ... RTOS, embedded systems, firmware development, PCB design, C/C++ programming
 - 📫 How to reach me ... my email is akincaid74@gmail.com
 
 <!---
